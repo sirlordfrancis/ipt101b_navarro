@@ -15,3 +15,5 @@ A brief description of what this project does and who it's for
 ## How to Install
 
 - Step 1: Download the zip file or use git clone
+
+- Step 2: Install the zip file
