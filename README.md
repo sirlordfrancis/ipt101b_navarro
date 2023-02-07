@@ -19,5 +19,3 @@ A brief description of what this project does and who it's for
 - Step 2: Install the zip file
 
 - Step 3: Open the navarro.exe file......
-
-- Step 4: Another Step
