@@ -23,3 +23,5 @@ A brief description of what this project does and who it's for
 # Part of Feature 1
 - This is a part of feature 1
 - This is another change of feature 1
+
+# Part of About us
