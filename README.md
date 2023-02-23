@@ -26,3 +26,7 @@ A brief description of what this project does and who it's for
 
 # Part of About us
 - This is a part of about us
+
+# Part of add to cart 
+- This is a part of add to cart
+
