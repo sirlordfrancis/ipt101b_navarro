@@ -1,5 +1,5 @@
 This is a new feature.
 
-My boss will like this feature.
-
 This is another awesome feature.
+
+This is an update from the collaborator.
