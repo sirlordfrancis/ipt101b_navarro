@@ -30,3 +30,6 @@ A brief description of what this project does and who it's for
 # Part of add to cart 
 - This is a part of add to cart
 
+# Part of Feature 3
+- This is feature 3
+
