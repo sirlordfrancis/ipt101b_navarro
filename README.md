@@ -33,3 +33,5 @@ A brief description of what this project does and who it's for
 # Part of Feature 3
 - This is feature 3
 
+# Part of Feature 4
+- This is feature 4
